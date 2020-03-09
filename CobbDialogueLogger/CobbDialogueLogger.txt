@@ -1,0 +1,9 @@
+## Title: CobbDialogueLogger
+## Author: DavidJCobb
+## Description: Dialogue Logger
+## APIVersion: 100029
+## AddOnVersion: 1
+## Version: 1
+## DependsOn: LibAddonMenu-2.0
+
+main.lua
